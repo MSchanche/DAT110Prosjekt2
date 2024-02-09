@@ -50,7 +50,7 @@ In addition, there are two optional - and more challenging task for those who in
 
 One member of the group should start by entering the following repository on github:
 
-https://github.com/lmkr/dat110-project2-mom-startcode
+https://github.com/selabhvl/dat110-project2-mom-startcode
 
 and choose *Use this template* of the repository (see button in the upper right of the repository web page).
 
